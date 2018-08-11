@@ -10,7 +10,6 @@
 *.blg
 *.bbl
 *.ent
-*.cls
 *.glo
 *.gls
 *.idx
